@@ -1,0 +1,4 @@
+str(input("Enter first name: "))
+str(input("Enter last name: "))
+str(input("Enter section: "))
+str(input("Enter favorite subject: "))
